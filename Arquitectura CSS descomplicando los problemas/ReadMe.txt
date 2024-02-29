@@ -1,0 +1,1 @@
+Es una pagina para compartir recetas simple y con algunas imagenes
